@@ -1,0 +1,67 @@
+div{
+    background-color: lightskyblue;
+    padding: 25px;
+    border: 15px;
+    margin: 25px;
+    border-style: solid;
+    border-color:black;
+    border-width: 5px;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+body{
+    background-color: aqua;
+}          
+
+p{
+     text-align: center;
+     background-color: hsla(104, 100, lightness, alpha);
+     font-family: Roboto;
+     color: blue;
+     font-size: 20px;
+     margin: 40px;
+}
+
+.moneymaker{
+    color: rgb(179, 12, 245);
+    font-family: cursive;
+}
+
+.languages{
+    color: rgb(77, 145, 247);
+    font-family: cursive;
+}
+
+.sports{
+    color:rgb(179, 12, 245);
+    font-family: cursive;
+}
+
+#pets{
+    color:blue;
+    font-family: cursive;
+}
+
+.memes{
+    color: rgb(82, 163, 240);
+    font-family: cursive;
+}
+
+#favoritetvshow{
+    color: rgb(82, 163, 240);
+    font-family: cursive;
+}
+
+.image{
+    text-align: left;
+    width: 5%;
+    height: 5%;
+}
